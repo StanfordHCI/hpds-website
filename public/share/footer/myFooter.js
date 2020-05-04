@@ -10,7 +10,8 @@ document.getElementById("myFooter").innerHTML =
       '<div class="col-lg-5  col-md-6 col-sm-6">'+
         '<div class="single-footer-widget">'+
           '<h6>Contact</h6>'+
-          '<p><a class="mymail" href="mailto:XXX@stanford.edu"><i class="fa fa-envelope"></i> XXX@stanford.edu</a></p>'+
+          //'<p><a class="mymail" href="mailto:XXX@stanford.edu"><i class="fa fa-envelope"></i> XXX@stanford.edu</a></p>'+
+          '<p><i class="fa fa-envelope"></i> Coming Soon</p>'+
         '</div>'+
       '</div>'+
       '<div class="col-lg-2 col-md-6 col-sm-6 social-widget">'+
