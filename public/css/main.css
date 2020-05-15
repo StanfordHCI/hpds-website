@@ -1904,7 +1904,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .collapse.show {
-  background-color: #8c1515;
+  background-color: #2E2D29;
   padding: 0px 12px;
 }
 
@@ -2268,6 +2268,11 @@ h1, h2, h3, h4, h5, h6 {
   color: #fff;
 }
 
+.people-area {
+  background-color: #FFFFFF;
+}
+
+
 /* <Jason> */
 .portfolio-area {
   background-color: #F4F4F4;
@@ -2343,13 +2348,15 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .portfolio-area .filters-content .item {
-  text-align: center;
   /* Jason cursor: pointer; */
-  margin-bottom: 30px;
+  padding-bottom: 5px;
+  margin-bottom: 20px;;
+  background-color: #FFFFFF;
+  text-align: left;
 }
 
 .portfolio-area .filters-content .item img {
-  border-radius: 10px;
+  /*border-radius: 10px;*/
   transition: .4s ease; /* Jason*/
 }
 
@@ -2359,14 +2366,17 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .portfolio-area .filters-content .item .p-inner {
-  padding: 20px 0px;
+  margin: 20px 25px;
 }
+
+.portfolio-area .filters-content .item .p-inner .a {
+  color: #000000;
+}
+
 /* Jason*/
 .portfolio-area .filters-content .item .p-inner h4 {
   transition: .2s ease;
-}
-.portfolio-area .filters-content .item .p-inner h4:hover {
-  color: #B1040E;
+  margin: 5px 0px;
 }
 
 .portfolio-area .filters-content .item .p-inner h5 {
@@ -2409,8 +2419,9 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .people-name {
-  font-size: smaller;
+  margin-top: 10px;
   text-align: center;
+  color: #000000;
 }
 
 .people-affiliation{
@@ -2689,6 +2700,7 @@ h6 {
 
 .about-generic-area p {
   margin-bottom: 20px;
+  text-align: left;
 }
 
 .white-bg {

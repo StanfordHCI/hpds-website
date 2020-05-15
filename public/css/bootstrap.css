@@ -3566,8 +3566,8 @@ tbody.collapse.show {
   align-items: center;
   justify-content: space-between;
   padding: 0.5rem 1rem;
-  background-color: #8c1515;
-  
+  /*background-color: #8c1515;*/
+  background-color: #2E2D29;
 }
 
 .navbar > .container,
