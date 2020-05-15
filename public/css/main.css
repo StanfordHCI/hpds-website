@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@700&display=swap');
 /*--------------------------- Color variations ----------------------*/
 /* Medium Layout: 1280px */
 /* Tablet Layout: 768px */
@@ -131,7 +132,7 @@ a, a:focus, a:hover {
 
 h1, h2, h3,
 h4, h5, h6 {
-  font-family: Helvetica, "Poppins", sans-serif;
+  font-family: "Ubuntu", "Source Sans Pro", Helvetica, "Poppins", sans-serif;
   color: #222222;
   line-height: 1.2em !important;
   margin-bottom: 0;
@@ -143,7 +144,7 @@ h4, h5, h6 {
 .h4, .h5, .h6 {
   margin-bottom: 0;
   margin-top: 0;
-  font-family: Helvetica, "Poppins", sans-serif;
+  font-family: "Source Sans Pro", Helvetica, "Poppins", sans-serif;
   font-weight: 600;
   color: #222222;
 }
