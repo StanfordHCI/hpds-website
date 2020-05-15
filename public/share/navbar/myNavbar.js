@@ -6,7 +6,7 @@ document.getElementById("myNavbar").innerHTML =
     '<div class="collapse navbar-collapse justify-content-end align-items-center" id="navbarSupportedContent">'+
       '<ul class="navbar-nav">'+
         '<li><a class="mylink" href="/">home</a></li>'+
-        '<li><a class="mylink" href="/#project">project</a></li>'+
+        '<li><a class="mylink" href="/#project">projects</a></li>'+
         //'<li><a class="mylink" href="/#tab2">publication</a></li>'+
         '<li><a class="mylink" href="/#people">people</a></li>'+
         //'<li><a class="mylink" href="/#tab4">sponsors</a></li>'+

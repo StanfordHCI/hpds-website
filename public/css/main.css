@@ -2350,8 +2350,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .portfolio-area .filters-content .item {
   /* Jason cursor: pointer; */
-  padding-bottom: 5px;
-  margin-bottom: 20px;;
+  
   background-color: #FFFFFF;
   text-align: left;
 }
@@ -2362,6 +2361,14 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /* Jason*/
+
+.single-project {
+  background-color: #FFFFFF;
+  margin: 20px;
+  padding: 0px 0px 5px 0px;
+}
+
+
 .portfolio-area .filters-content .item img:hover {
   opacity: 0.8;
 }
