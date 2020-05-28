@@ -17,6 +17,7 @@ document.getElementById("myFooter").innerHTML =
         '<div class="single-footer-widget">'+
           '<h6>Follow Us</h6>'+
           '<div class="footer-social d-flex align-items-center">'+
+            '<a target="_blank" rel="noopener noreferrer" href="https://twitter.com/StanfordHPDS"><i class="fa fa-twitter"></i></a>'+
             '<a target="_blank" rel="noopener noreferrer" href="https://github.com/StanfordHCI/Hybrid-Physical-Digital-Spaces"><i class="fa fa-github"></i></a>'+
           '</div>'+
         '</div>'+
