@@ -4,7 +4,7 @@ document.getElementById("myFooter").innerHTML =
       '<div class="col-lg-5 col-md-6 col-sm-6">'+
         '<div class="single-footer-widget">'+
           '<h6>Copyright</h6>'+
-          '<p><a class="mymail" href="/">© Stanford University 2020</a></p>'+
+          '<p><a class="mymail" href="/">© Stanford University 2021</a></p>'+
         '</div>'+
       '</div>'+
       '<div class="col-lg-5  col-md-6 col-sm-6">'+
