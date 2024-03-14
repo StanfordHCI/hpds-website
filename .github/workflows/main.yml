@@ -24,7 +24,7 @@ jobs:
     - uses: AEnterprise/rsync-deploy@v1.0.2
       env:
         DEPLOY_KEY: ${{ secrets.PRIVATE_KEY }}
-        ARGS: "-c -r --delete"
+        ARGS: "-c -r --delete --exclude='.git/'"
         SERVER_PORT: 22
         FOLDER: ./
         SERVER_IP: ${{ secrets.HOST }}
